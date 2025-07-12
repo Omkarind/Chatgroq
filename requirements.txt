@@ -1,0 +1,9 @@
+groq
+langchain-groq
+langchain-groq-embeddings   
+langchain_core
+langchain_community
+langchain_openai
+python-dotenv
+langchain-text-splitters
+langchain-embeddings
